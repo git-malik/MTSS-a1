@@ -1,4 +1,6 @@
 2075543
 2075544
-[Processori](processori.md)
-[Schede Madri](schede_madri.md)
+## Componenti
+[Processori](componenti/processori.md)
+[Schede Madri](componenti/schede_madri.md)
+Elettronica Padovana
